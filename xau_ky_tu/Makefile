@@ -11,6 +11,11 @@ all:
 	$(CC) bai7.c -o bai7
 	$(CC) bai8.c -o bai8
 	$(CC) bai9.c -o bai9
+	$(CC) bai10.c -o bai10
+	$(CC) bai11.c -o bai11
+	$(CC) bai12.c -o bai12
+	$(CC) bai13.c -o bai13
+	$(CC) bai14.c -o bai14
 clean:
 	rm -rf *o bai1
 	rm -rf *o bai2
@@ -21,3 +26,8 @@ clean:
 	rm -rf *o bai7
 	rm -rf *o bai8
 	rm -rf *o bai9
+	rm -rf *o bai10
+	rm -rf *o bai11
+	rm -rf *o bai12
+	rm -rf *o bai13
+	rm -rf *o bai14
