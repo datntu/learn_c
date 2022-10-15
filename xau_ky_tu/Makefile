@@ -16,6 +16,9 @@ all:
 	$(CC) bai12.c -o bai12
 	$(CC) bai13.c -o bai13
 	$(CC) bai14.c -o bai14
+	$(CC) bai15.c -o bai15
+	$(CC) bai16.c -o bai16
+	$(CC) bai17.c -o bai17
 clean:
 	rm -rf *o bai1
 	rm -rf *o bai2
@@ -31,3 +34,6 @@ clean:
 	rm -rf *o bai12
 	rm -rf *o bai13
 	rm -rf *o bai14
+	rm -rf *o bai15
+	rm -rf *o bai16
+	rm -rf *o bai17

@@ -33,7 +33,6 @@ int  tong(sinhvien a){
 void ok(sinhvien a){
     if(tong(a)>=24) printf("Đỗ\n");
     else printf("trượt\n");
-    if
 }
 
 int main(){
